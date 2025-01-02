@@ -9,18 +9,13 @@ Year Progress Tracker is a simple and visually engaging web app that shows how m
 - 🏞 **Dynamic Progress Bar**: A sleek, responsive progress bar that updates daily.
 - 📊 **Accurate Calculations**: Handles both leap and common years using Day.js plugins.
 - 🖼 **Modern Design**: Clean UI with beautiful SVG assets for a professional feel.
-- 🦫 **Links to Projects**:
-  - [QuirkSymbols](https://quirksymbols.web.app/): Learn more about the creator’s work.
+-  **Links to Projects**:
+  - [Year Progress](https://year-progresss.web.app/): Learn more about the creator’s work.
+  - [Quirk Symbols](https://quirksymbols.web.app/): Funny website.
   - [GitHub Repository](https://github.com/Mykola-Dzoban/year-progress): Explore and contribute to the source code.
 
 ---
 
-## 🎨 **Screenshots**
-
-### **Progress Bar**
-![Progress Bar Example](./screenshots/progress-bar.png)
-
----
 
 ## 🛠️ **Technologies Used**
 - **Frontend Framework**: [React.js](https://reactjs.org/)
@@ -69,12 +64,12 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 ## 🌐 **Live Demo**
-Check out the live version here: [Year Progress Tracker](https://quirksymbols.web.app/)
+Check out the live version here: [Year Progress Tracker](https://year-progresss.web.app/)
 
 ---
 
 ## ✨ **Credits**
-- **Logo & Beaver Icon**: Original SVG assets.
+- **Icons**: Original SVG assets.
 - **Developed by**: [Mykola Dzoban](https://github.com/Mykola-Dzoban).
 
 Enjoy tracking your year's progress! 🎉
